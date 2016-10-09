@@ -1,0 +1,5 @@
+NY Times, https://developer.nytimes.com/, API, Free?
+Guardian, http://open-platform.theguardian.com/, API, Free?
+AP, https://developer.ap.org/, Free?
+NewsAPI, https://newsapi.org/#documentation, Free, Possibly limited to recent headlines?
+Webhose, http://webhose.io/, API, Free/Paid
