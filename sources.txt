@@ -3,3 +3,4 @@ Guardian, http://open-platform.theguardian.com/, API, Free?
 AP, https://developer.ap.org/, Free?
 NewsAPI, https://newsapi.org/#documentation, Free, Possibly limited to recent headlines?
 Webhose, http://webhose.io/, API, Free/Paid
+Faroo, http://faroo.com/, Free web & news search API (1m queries per month - may require static IP)
