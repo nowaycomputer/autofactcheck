@@ -1,23 +1,35 @@
-id,type,author,text
-0,quote,"Donald Trump","The concept of global warming was created by and for the Chinese in order to make US manufacturing non-competitive."
-1,quote,"Hilary Clinton","This TPP sets the gold standard in trade agreements to open free, transparent, fair trade, the kind of environment that has the rule of law and a level playing field."
-2,numerical,"The Obama administration has doubled the US national debt in eight years."
-3,numerical,"The USA won the most medals at the 2016 Rio Olympics."
-4,numerical,"The US employment rate is rising."
-5,numerical,"The US population is 320 million."
-6,position,"Donald Trump did not support the Iraq War."
-7,position,"President Obama signed an executive order banning the Pledge of Allegiance in public schools."
-8,properties,"unknown","Corey Lewandowski is Donald Trump’s campaign manager."
-9,properties,"unknown","Hillary Clinton is the Democratic candidate for President."
-10,quote,"unknown","Donald Trump "was one of the people who rooted for the housing crisis. He said back in 2006, ‘Gee, I hope it does collapse because then I can go in and buy some and make some money.’"
-11,numerical, "unknown", "USA has the lowest self employment rate in the OECD countries."
-12,numerical, "unknown", "The Forbes billionaires are richer than Japan."
-13,numerical, "unknown", "Income inequality is 0.396 in the United States."
-14,numerical, "unknown", "There are more unemployed white women than there are unemployed black women in the US workforce."
-15,numerical, "unknown", "White women are nearly half as likely to be unemployed than black women."
-16,position, "unknown", "Rep. Betty McCollum voted to pass the Water Resources Reform and Development Act of 2014."
-17,position, "unknown", "Barack Obama sponsored the Mercury Export Ban Act of 2008."
-18,properies,"unknown", "Angelina Jolie and Brad Pitt are married."
-19,properties, "unknown", "Donald Trump is the next president of the United States of America."
-20,properties ,"unknown", "Texas has 37 electoral votes."
-21,properties, "unknown", Sen. Dianne Feinstein is the chairman for the Senate Select Committee on Intelligence.
+id,type,author,text,rating
+0,quote,Donald Trump,The concept of global warming was created by and for the Chinese in order to make US manufacturing non-competitive.,True
+1,quote,Hilary Clinton,"This TPP sets the gold standard in trade agreements to open free, transparent, fair trade, the kind of environment that has the rule of law and a level playing field.",True
+2,numerical,unknown,The Obama administration has doubled the US national debt in eight years.,Somewhat-true
+3,numerical,unknown,The USA won the most medals at the 2016 Rio Olympics.,True
+4,numerical,unknown,The US employment rate is rising.,True
+5,numerical,unknown,The US population is 320 million.,True
+6,position,unknown,Donald Trump did not support the Iraq War.,False
+7,position,unknown,President Obama signed an executive order banning the Pledge of Allegiance in public schools.,False
+8,properties,unknown,Corey Lewandowski is Donald Trump’s campaign manager.,False
+9,properties,unknown,Hillary Clinton is the Democratic candidate for President.,True
+10,quote,unknown,"Donald Trump ""was one of the people who rooted for the housing crisis. He said back in 2006, ‘Gee, I hope it does collapse because then I can go in and buy some and make some money.’",Somewhat-true
+11,numerical,unknown,USA has the lowest self employment rate in the OECD countries.,False
+12,numerical,unknown,The Forbes billionaires are richer than Japan.,True
+13,numerical,unknown,Income inequality is 0.396 in the United States.,True
+14,numerical,unknown,There are more unemployed white women than there are unemployed black women in the US workforce.,True
+15,numerical,unknown,White women are nearly half as likely to be unemployed than black women.,True
+16,position,unknown,Rep. Betty McCollum voted to pass the Water Resources Reform and Development Act of 2014.,Somewhat-true
+17,position,unknown,Barack Obama sponsored the Mercury Export Ban Act of 2008.,True
+18,properties,unknown,Angelina Jolie and Brad Pitt are married.,True
+19,properties,unknown,Donald Trump is the next president of the United States of America.,False
+20,properties ,unknown,Texas has 37 electoral votes.,False
+21,properties,unknown, Sen. Dianne Feinstein is the chairman for the Senate Select Committee on Intelligence.,False
+22,numerical,unknown,"5,000 workers earned less than minimum wage in Hawaii, in 2013",True
+23,numerical,unknown,In Fairbanks Alaska there were 2017 farms in 2012 ,False
+24,numerical,unknown,"There are 3 hospital beds per 1,000 people",True
+25,numerical,unknown,"In 2015 the USA produced 294,000 tonnes of carrots",True
+26,numerical,unknown,When I was secretary of state we increased american exports globally 30%,Somewhat-true
+27,numerical,unknown,5.0% of labor force is unemployed,Somewhat-true
+28,numerical,unknown,"In Westchester, New York, the average wage is almost 10 times the national average.",False
+29,quote,Barack Obama,"we know that having millions of people in the criminal justice system, without any ability to find a job after release, is unsustainable.  It’s bad for communities and it’s bad for our economy",True
+30,quote,Hilary Clinton,“I gratefully accept your nomination for the presidency of the United States,False
+31,quote,Mike Pence,"In his acceptance speech Mike Pence said “This is the legacy of Hillary Clinton: death, destruction and weakness.”",False
+32,properties,unknown,Houston is the most diverse city in America,Somewhat-true
+33,properties,unknown,The President talked with the Ukrainian Deputy Prime Minister Volodymyr Groysman on May 13th 2016,Somewhat-false
