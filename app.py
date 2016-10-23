@@ -20,12 +20,25 @@ with open('sampledata.csv', 'rb') as csvfile:
 		else:
 			claim_types[row[1]]=1
 		claim=row[3]
-		print claim
-		# Work out if claim is numeralumerical
+
+		#print claim
+		# Work out if claim is numerical
 		# CD: numeral, cardinal
-		if len(ta.check_for_type(claim,'CD'))>0:
-			print ta.check_for_type(claim,'CD')
+		# JJR: adjective, comparative
+		CD_instances=ta.check_for_type(claim,'CD')
+		JJR_instances=ta.check_for_type(claim,'JJR')
+		#subjects=ta.get_subject(claim)
+		if len(CD_instances)>0 or len(JJR_instances)>0:
+			print claim
 			number_of_numerical=number_of_numerical+1
+			
+			if len(CD_instances)>0:
+				print ta.check_for_type(claim,'CD')
+			if len(JJR_instances)>0:
+				print ta.check_for_type(claim,'JJR')
+			ta.extract_entities(claim)
+
+
 
 	print "Number of numerical",number_of_numerical
 	print claim_types

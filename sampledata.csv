@@ -19,7 +19,7 @@ id,type,author,text,rating
 17,position,unknown,Barack Obama sponsored the Mercury Export Ban Act of 2008.,True
 18,properties,unknown,Angelina Jolie and Brad Pitt are married.,True
 19,properties,unknown,Donald Trump is the next president of the United States of America.,False
-20,properties ,unknown,Texas has 37 electoral votes.,False
+20,properties,unknown,Texas has 37 electoral votes.,False
 21,properties,unknown, Sen. Dianne Feinstein is the chairman for the Senate Select Committee on Intelligence.,False
 22,numerical,unknown,"5,000 workers earned less than minimum wage in Hawaii, in 2013",True
 23,numerical,unknown,In Fairbanks Alaska there were 2017 farms in 2012 ,False
@@ -33,3 +33,10 @@ id,type,author,text,rating
 31,quote,Mike Pence,"In his acceptance speech Mike Pence said “This is the legacy of Hillary Clinton: death, destruction and weakness.”",False
 32,properties,unknown,Houston is the most diverse city in America,Somewhat-true
 33,properties,unknown,The President talked with the Ukrainian Deputy Prime Minister Volodymyr Groysman on May 13th 2016,Somewhat-false
+34,numerical,unknown,Spain has the most unemployed young men,True
+35,numerical,unknown,Warren Buffett's 2015 tax deductions totalled almost $105.5m,False
+36,numerical,unknown,On average each person is the US is responsible for 16.2 tonnes of CO2 emissions,True
+37,numerical,unknown,In 1984 there were 682,800 adults in prison in the USA,somewhat-true
+38,position,unknown,Hillary Clinton voted to raise taxes on workers earning as little as $41,500.,somewhat-false
+39,properties,unknown,Heineken sponsors dog fighting events, False
+40,properties,unknown,Louisiana Sen. Mary Landrieu "received almost $1.8 million from BP over the last decade.",False

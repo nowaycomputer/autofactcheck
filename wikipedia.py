@@ -15,7 +15,7 @@ class Wikipedia:
 		content_text = soup.find(id="content").text
 		# if phrase is found
 		if term in content_text:
-			print 'found'
+			pass
     
 	url='https://en.wikipedia.org/wiki/Donald_Trump'
 	search_for_term(url,'global warming')
